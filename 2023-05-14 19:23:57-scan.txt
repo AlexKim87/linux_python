@@ -1,0 +1,37 @@
+Уникальные пользователи и количество процессов для каждого пользователя:
+1. _distnote - 1 шт.
+2. _analyticsd - 1 шт.
+3. _coreaudiod - 5 шт.
+4. root - 131 шт.
+5. _usbmuxd - 1 шт.
+6. _nsurlsessiond - 3 шт.
+7. _accessoryupdater - 1 шт.
+8. _ctkd - 1 шт.
+9. _networkd - 1 шт.
+10. _installcoordinationd - 1 шт.
+11. _trustd - 2 шт.
+12. _locationd - 7 шт.
+13. _assetcache - 3 шт.
+14. _iconservices - 1 шт.
+15. _spotlight - 1 шт.
+16. _hidd - 1 шт.
+17. _applepay - 3 шт.
+18. _captiveagent - 1 шт.
+19. _cmiodalassistants - 8 шт.
+20. _appleevents - 2 шт.
+21. _securityagent - 1 шт.
+22. _windowserver - 3 шт.
+23. _driverkit - 3 шт.
+24. _fpsd - 3 шт.
+25. leningrad - 222 шт.
+26. _netbios - 1 шт.
+27. _gamecontrollerd - 1 шт.
+28. _oahd - 1 шт.
+29. _timed - 1 шт.
+30. _mdnsresponder - 1 шт.
+31. _softwareupdate - 4 шт.
+32. _reportmemoryexception - 1 шт.
+Всего использоваро оперативной памяти 76.19999999999996
+Процессор загружен на 54.80000000000001 %
+Этот процесс больше всего нагружает процессор {'name': '/Applications/PyCharm', 'cpu': 35.9}
+Этот процесс занимает больше всего оперативной памяти {'name': '/Applications/PyCharm', 'memory': 12.7}
